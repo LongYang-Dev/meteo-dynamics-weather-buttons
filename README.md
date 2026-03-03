@@ -5,7 +5,7 @@
 
 &nbsp;
 
-![Storm Button Demo](assets/storm_button.gif)
+![Storm Button Demo](storm_button.gif)
 
 &nbsp;
 
@@ -84,3 +84,4 @@ val button = when (weatherCode) {
 
 Commercial license included with purchase. See `LICENSE.txt` in the package.  
 © 2026 Meteo Dynamics. All rights reserved.
+
